@@ -60,3 +60,15 @@ body {
         font-weight: 600;
         color: #1a252f;
       }
+
+.item-block {
+        margin-bottom: 1.25rem;
+        padding-bottom: 1rem;
+        border-bottom: 1px dashed var(--border-color);
+      }
+
+.item-block:last-child {
+        margin-bottom: 0;
+        padding-bottom: 0;
+        border-bottom: none;
+      }
