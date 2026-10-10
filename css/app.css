@@ -61,6 +61,18 @@ body {
         color: #1a252f;
       }
 
+.tag-badge {
+        display: inline-block;
+        background: #eef2f7;
+        color: #2c3e50;
+        border: 1px solid #d0d7de;
+        border-radius: 4px;
+        padding: 0.35rem 0.75rem;
+        margin: 0.25rem;
+        font-size: 0.85rem;
+        font-weight: 500;
+      }
+
 .item-block {
         margin-bottom: 1.25rem;
         padding-bottom: 1rem;
